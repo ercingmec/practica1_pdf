@@ -1,2 +1,2 @@
 # practica1_pdf
-Reyes Erick 
+LABORATORIO DE PROGRAMACIÓN 
